@@ -1,0 +1,4 @@
+This is my first file.
+hosts file for ansible
+This is new release for app
+DANGER: EXPLODING APP - WILL SELF DESTRUCT IN 10 SEC.
